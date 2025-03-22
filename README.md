@@ -182,13 +182,9 @@ Contributions are welcome! Here's how you can contribute to this project:
 - Add real-time prediction capabilities
 - Improve model explainability
 
-## License
-
-[MIT License](LICENSE)
-
 ## Author
 
-[Your Name]
+MOHITH G K
 
 ---
 
