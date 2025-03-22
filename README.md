@@ -1,4 +1,4 @@
-Credit Card Fraud Detection System
+# Credit Card Fraud Detection System
 This project implements a machine learning-based system to detect fraudulent credit card transactions using ensemble methods with advanced feature engineering.
 Overview
 The system uses a voting ensemble of multiple machine learning algorithms (Logistic Regression, Random Forest, Gradient Boosting, and XGBoost) to classify transactions as legitimate or fraudulent. The model handles class imbalance using SMOTE oversampling and employs comprehensive feature engineering to improve detection accuracy.
