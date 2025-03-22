@@ -14,7 +14,7 @@ Dataset
 - [Output Files and Visualization](#output-files-and-visualization)
 - [Model Performance](#model-performance)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
